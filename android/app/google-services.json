@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425684528838",
+    "project_id": "fayaz-bakers",
+    "storage_bucket": "fayaz-bakers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425684528838:android:ece5238a14b0ff7b7c31c7",
+        "android_client_info": {
+          "package_name": "com.zuhersaid.fayaz_bakers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425684528838-gat4jaq6uvjt7ss43887mobll5po3ijl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEGpKuGsjWOnuCXYq9V94zZuknz2d5VOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425684528838-gat4jaq6uvjt7ss43887mobll5po3ijl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
